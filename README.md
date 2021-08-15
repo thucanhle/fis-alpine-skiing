@@ -1,0 +1,2 @@
+# fis-alpine-skiing
+DBI202 – DATABASE SYSTEM OF SKIING TOURNAMENT
